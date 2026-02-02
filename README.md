@@ -1,4 +1,6 @@
 🤖 Overview
+![smart_cancer_care](beat-cancer-main\src\assets\smart_cancer_care.png)
+
 
 Smart Cancer Care simplifies the complex process of personalized cancer treatment using advanced AI models. It works by assessing patient records, detecting screening gaps, and generating tailored treatment strategies. This tool aims to improve patient outcomes while maintaining data security and privacy.
 
